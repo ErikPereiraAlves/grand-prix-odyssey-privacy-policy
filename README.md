@@ -1,4 +1,4 @@
-# Pinguim Odyssey
+# Grand Prix Odyssey
 
 Jogo de plataforma vertical com pinguim em Flutter + Flame, focado em
 publicação na **Google Play Store (Android only)**.
